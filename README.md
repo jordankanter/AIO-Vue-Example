@@ -1,6 +1,6 @@
-# aio-vue
+# Adobe I/O Vue.js Example
 
-Welcome to my Adobe I/O Application!
+This application demostrates how to use [Vue.js](https://vuejs.org/) in an Adobe I/O application with [Coral Spectrum](https://github.com/adobe/coral-spectrum) as a UI library. 
 
 ## Setup
 
